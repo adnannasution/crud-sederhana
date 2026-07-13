@@ -1,27 +1,6 @@
 {
   "produk": [
     {
-      "id": 1,
-      "nama": "Laptop Asus",
-      "kategori": "Elektronik",
-      "stok": 10,
-      "harga": 8500000
-    },
-    {
-      "id": 2,
-      "nama": "Mouse Logitech",
-      "kategori": "Aksesoris",
-      "stok": 50,
-      "harga": 250000
-    },
-    {
-      "id": 3,
-      "nama": "Keyboard Mechanical",
-      "kategori": "Aksesoris",
-      "stok": 30,
-      "harga": 750000
-    },
-    {
       "id": 4,
       "nama": "printer",
       "kategori": "Elektronik",
@@ -34,7 +13,28 @@
       "kategori": "Aksesoris",
       "stok": 34,
       "harga": 230000
+    },
+    {
+      "id": 6,
+      "nama": "Produk Test",
+      "kategori": "Elektronik",
+      "stok": 10,
+      "harga": 100000
+    },
+    {
+      "id": 7,
+      "nama": "Produk Test",
+      "kategori": "Elektronik",
+      "stok": 10,
+      "harga": 100000
+    },
+    {
+      "id": 8,
+      "nama": "Produk Test",
+      "kategori": "Elektronik",
+      "stok": 10,
+      "harga": 100000
     }
   ],
-  "lastId": 5
+  "lastId": 8
 }
