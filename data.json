@@ -1,13 +1,6 @@
 {
   "produk": [
     {
-      "id": 4,
-      "nama": "printer",
-      "kategori": "Elektronik",
-      "stok": 12,
-      "harga": 2300000
-    },
-    {
       "id": 5,
       "nama": "handphone",
       "kategori": "Aksesoris",
@@ -34,7 +27,14 @@
       "kategori": "Elektronik",
       "stok": 10,
       "harga": 100000
+    },
+    {
+      "id": 9,
+      "nama": "printer",
+      "kategori": "Elektronik",
+      "stok": 12,
+      "harga": 3000000
     }
   ],
-  "lastId": 8
+  "lastId": 9
 }
