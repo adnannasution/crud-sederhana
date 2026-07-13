@@ -53,8 +53,8 @@ test('hapus produk', async ({ page }) => {
 });
 
 test('fitur search', async ({ page }) => {
-  await page.fill('#search', 'Laptop');
-  await expect(page.locator('tbody')).toContainText('Laptop');
+  await page.fill('#search', 'printer');
+  await expect(page.locator('tbody')).toContainText('printer');
   // Badge count berubah
   await expect(page.locator('#cnt')).not.toContainText('0 item');
 });
