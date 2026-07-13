@@ -1,0 +1,40 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "Laptop Asus",
+      "kategori": "Elektronik",
+      "stok": 10,
+      "harga": 8500000
+    },
+    {
+      "id": 2,
+      "nama": "Mouse Logitech",
+      "kategori": "Aksesoris",
+      "stok": 50,
+      "harga": 250000
+    },
+    {
+      "id": 3,
+      "nama": "Keyboard Mechanical",
+      "kategori": "Aksesoris",
+      "stok": 30,
+      "harga": 750000
+    },
+    {
+      "id": 4,
+      "nama": "printer",
+      "kategori": "Elektronik",
+      "stok": 12,
+      "harga": 2300000
+    },
+    {
+      "id": 5,
+      "nama": "handphone",
+      "kategori": "Aksesoris",
+      "stok": 34,
+      "harga": 230000
+    }
+  ],
+  "lastId": 5
+}
